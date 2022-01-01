@@ -1,3 +1,33 @@
 body {
-    background: blue;
-  }
+  background-image: url("https://previews.123rf.com/images/skorzewiak/skorzewiak1903/skorzewiak190300100/119831274-retro-gamepad-controller-hologram-on-digital-background-5g-gaming-play-pad-and-online-game-abstract-.jpg");
+  background-size: cover;
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 40px;
+  text-shadow: 0 0 3px #000000, 0 0 5px #0000FF;
+  border-bottom: 20px;
+  color: white;
+  border:40px #c708c7;
+  background-color: rgb(242, 255, 64);
+  width: 600px;
+  text-align: center;
+  margin-left: 27.6%;
+}
+h2 {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: white;
+  font-style: bold;
+}
+p {
+  max-width: 500px;
+      padding: 20px;
+      margin: 20 auto;
+      background: url("https://image.freepik.com/free-vector/technology-banner-background-with-hexagonal-shapes-text-space_1017-22589.jpg");
+      background-size: cover;
+      color: silver;
+      text-align: center;
+      border-radius: 40px;
+      border: 1px solid #c708c7;
+}
